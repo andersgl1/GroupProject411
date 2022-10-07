@@ -1,7 +1,7 @@
 1. Financial performance application
 
 This application will make use of the Yahoo Finance API to gather financial data on corporations and return trends in financial statements. 
-After signing in using OAuth, a user will lookup the company of their choice and then be returned a trend of the company's trends in profitability. 
+After signing in using OAuth, a user will lookup the company of their choice and then be returned a graph of the company's trends in profitability. 
 The application will also deliver the user a few options to select from in case they would prefer to find the trends of another component inside
 the financial statement. Using this application, a user will be able to better gauge if a company is a good financial investment for the future based
 on the company's performance.
