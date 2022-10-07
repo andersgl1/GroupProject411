@@ -9,6 +9,9 @@ on the company's performance.
 4. Recommend songs based on daily temperature and weather
 
 First, this application would ask users to store their profiles.
-For this application, the use of Spotify API would help to gather users' related data and their playlists, working together with OpenWeather API which
-provides current weather data. Using OAuth, users could sign in via spotify. 
-<tbc>
+For this application, the use of Spotify API would help to gather users' related data and their playlists, combined with OpenWeather API which 
+provides current weather data. Using OAuth, users could sign in via Spotify. The application has two options for sending songs in response to the current
+temperature and weather. One will look for songs of the opposite vibe: if the day's cold, it might give users some cozy-feeling songs. The other one will
+look for correlated songs: if it's rainy, there will be songs about rain, melancholy, etc. The application fulfills different users' purposes. Users can 
+simply just listen to the music that matches the ambiance and enjoy it. Yet, if they feel terrible because of freezing days or thunderstorms, users can 
+also cheer themselves up with songs recommended by the application.
