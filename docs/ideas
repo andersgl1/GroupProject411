@@ -1,8 +1,10 @@
 1. Financial performance application
-2. Dropshipping bot
-3. Item scan / upload application and recieve coupon recommendation
+
+This application will make use of the Yahoo Finance API to gather financial data on corporations and return trends in financial statements. 
+After signing in using OAuth, a user will lookup the company of their choice and then be returned a trend of the company's trends in profitability. 
+The application will also deliver the user a few options to select from in case they would prefer to find the trends of another component inside
+the financial statement. Using this application, a user will be able to better gauge if a company is a good financial investment for the future based
+on the company's performance.
+
 4. Recommend songs based on daily temperature and weather
-5. Syllabus storage / Planner
-6. Housing in area application
-7. Compare flight costs to number of covid cases.(gives reccomendations on cheapest/safest places to travel in the USA.)
-8. Courses' open seats tracking and notifying
+
