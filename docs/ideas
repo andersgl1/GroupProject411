@@ -8,3 +8,7 @@ on the company's performance.
 
 4. Recommend songs based on daily temperature and weather
 
+First, this application would ask users to store their profiles.
+For this application, the use of Spotify API would help to gather users' related data and their playlists, working together with OpenWeather API which
+provides current weather data. Using OAuth, users could sign in via spotify. 
+<tbc>
