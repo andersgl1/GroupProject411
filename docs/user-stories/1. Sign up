@@ -1,0 +1,9 @@
+As a new user, I want to register for an account with Music Forecast so that I can listen to music based on the weather. 
+
+For any user to sign up for Music Forecast, a valid email address is required. If the email address has been used, the 
+page will tell the user to re-enter another valid email address. A verification link will be sent to the user's email 
+address if the address is valid. The user needs to click the link to finish the new-user registration process. After the
+email address is verified, the user can set up the login password. At the end of the process, the user will complete 
+information such as setting up a profile picture, username, and bio.
+
+Users can later use the email address and login password to log in.
