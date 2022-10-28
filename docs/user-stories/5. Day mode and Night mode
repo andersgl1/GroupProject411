@@ -1,4 +1,5 @@
-As a logged-in user, I want to change from day-time mode to night mode so that I can listen to music at night without bright light, or if the user prefers to stay in night mode they can keep it on night mode throughout the day. 
+As a logged-in user, I want to change from day-time mode to night mode so that I can listen to music at night without bright light, 
+or if I prefer to stay in night mode I can keep it on night mode throughout the day. 
 Automatically, the application will default to day-time mode. 
 The user will be able to switch from day-time mode to night mode with the switch of a button in settings. 
 The user's settings will be preserved for the next login.
