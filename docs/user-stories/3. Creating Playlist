@@ -1,1 +1,7 @@
+As a logged-in user, I want to choose whether I want songs to match the current weather or songs opposite so that I can listen to music that matches the weather 
+and my mood. 
+
+When a user enters the music player, it should ask if they wish to match the mood or look for something different. If an option is chosen, a music 
+playlist is made for the user that matches their inputs. Users can cancel out of it and nothing would happen, or they can choose to switch to the current
+weather in order to play songs again that correlate to the current weather.
 
