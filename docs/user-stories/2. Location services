@@ -1,3 +1,9 @@
 As a logged-in user, I want to grant access to my current location so that the weather can help match songs. 
 
-The website should automatically, once a user has joined and logged-in for the first time, ask for permission to use their current location or ask for a location to be entered. If the user denies permission they should still be able to access the site but the music player would not be available to the user with the current weather option. The user will still, however, be able to input weather into the application in order to play a playlist pertaining to the weather they’ve input. Warning would be given at each login that certain functions of the music player would not function properly if location is not given.
+The website should automatically, once a user has joined and logged-in for the first time, ask for permission to use their current location or ask for a location to be
+
+entered. If the user denies permission they should still be able to access the site but the music player would not be available to the user with the current weather
+
+option. The user will still, however, be able to input weather into the application in order to play a playlist pertaining to the weather they’ve input. Warning would be
+
+given at each login that certain functions of the music player would not function properly if location is not given.
