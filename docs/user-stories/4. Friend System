@@ -1,2 +1,5 @@
-
-As a logged-in user, I want to be able to invite a friend to register for an account with Music Forcast so that we can enjoy the service together. New user will be guided to the registration page -> User Story 1 There will be an invitation link in the user setting page. If there is no link, a new link will be generated. If the user already has an account, clicking the shared link will make both users each other's friend. Once users become friends they will be able to see what each other is listening to The user will be able to see the friends that they’ve added and also be able to see which playlists they’ve been playing.
+As a logged-in user, I want to be able to invite a friend to register for an account with Music Forcast so that we can enjoy the service together. 
+New user will be guided to the registration page -> User Story 1 There will be an invitation link in the user setting page. If there is no link, 
+a new link will be generated. If the user already has an account, clicking the shared link will make both users each other's friend. Once users 
+become friends they will be able to see what each other is listening to The user will be able to see the friends that they’ve added and also be
+able to see which playlists they’ve been playing..
