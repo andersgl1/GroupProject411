@@ -1,4 +1,8 @@
-The tehcnology stack that our group chose was react frontend, python backend and mongoDB database. We will compare it to the Node technology stack.
+The tehcnology stack that our group chose was React frontend, python backend and mongoDB database. We will compare it to the Node technology stack.
+Frontend:
 Although React and Node.js both are popular open-source JavaScript frameworks, they differ in how they involve in tasks:
 For example, React is used to build websites and user interfaces, which is more specific. Also, compared to Node.js, the 
 learning curve of React is easier.
+Backend:
+
+Database:
