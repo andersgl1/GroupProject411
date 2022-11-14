@@ -4,5 +4,6 @@ Although React and Node.js both are popular open-source JavaScript frameworks, t
 For example, React is used to build websites and user interfaces, which is more specific. Also, compared to Node.js, the 
 learning curve of React is easier.
 Backend:
-
+We are going to use Python instead of Java for the backend. Both Java and Python have extensive libraries, but Python is more
+human-readable and its syntax allows us to write the same thing as using Java but with less code.
 Database:
