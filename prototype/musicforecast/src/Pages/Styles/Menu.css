@@ -1,0 +1,27 @@
+#menu-body {
+    background-color: rgb(78, 56, 94);
+    width: 100vw;
+    height: 100vh;
+    transition: .4s all;
+}
+
+.pages-settings {
+    color: white;
+    font-weight: 100;
+    font-family: 'Kumar One';
+    margin: 1.25rem;
+    font-size: 2rem;
+    background-color: rgb(78, 56, 94);
+    border: none;
+    transition: .15s all;
+    text-decoration: none;
+
+}
+
+.more-space {
+    margin-top: 5rem;
+}
+
+.pages-settings:hover {
+    text-shadow: 0 0 10px white;
+}

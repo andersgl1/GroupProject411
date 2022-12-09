@@ -1,0 +1,71 @@
+.settings-label {
+    font-family: 'Kumar One';
+    font-size: 3rem;
+    color: white;
+    margin-bottom: 1rem;
+    font-weight: 100;
+    margin-top: 10rem;
+}
+
+#settings-body {
+    height: 100vh;
+    width: 100%;
+}
+
+.text-settings {
+    font-size: 1.5rem;
+    font-weight: 100;
+    margin-left: 3rem;
+}
+
+.left-component {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    font-family: 'Kumar One';
+    align-self: center;
+    margin-top: 1rem;
+}
+
+.button-settings {
+    width: 10rem;
+    height: 3rem;
+    background-color:rgba(235, 90, 112, 0.524);
+    border: .15rem solid white;
+    border-radius: .5rem;
+    font-size: 1.25rem;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+.button-settings:hover {
+    box-shadow: 0 0 10px white;;
+}
+
+.alignment-buttons-settings {
+    display: block;
+    flex-direction: row;
+    align-self: center;
+}
+
+
+.Theme {
+    margin-left: 13.95rem;
+}
+
+.Mode {
+    margin-left: 15.15rem;
+}
+
+.Spotify {
+    margin-left: 13.5rem;
+}
+
+.Location {
+    margin-left: 12.3rem;
+    margin-right: 3rem;
+}
+
+.box-settings {
+    border-top: .2rem solid white;
+}
