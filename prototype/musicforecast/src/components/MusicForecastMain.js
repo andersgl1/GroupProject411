@@ -104,7 +104,6 @@ const PlayButton = () => {
 
     function alertPos() {
         const thisVar = navigator.geolocation.getCurrentPosition(success, error, options);
-        alert("Hi there!");
     }
 
     return (
