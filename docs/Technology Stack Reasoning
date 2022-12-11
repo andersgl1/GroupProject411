@@ -1,14 +1,19 @@
-The tehcnology stack that our group chose was React frontend, python backend and mongoDB database. We will compare it to the Node technology stack.
+The tehcnology stack that our group chose was React frontend, Flask backend and mongoDB database. We will compare them to Node.js, Django and SQL.
+
 Frontend:
 Although React and Node.js both are popular open-source JavaScript frameworks, they differ in how they involve in tasks:
 For example, React is used to build websites and user interfaces, which is more specific. Also, compared to Node.js, the 
 learning curve of React is easier.
+
 Backend:
-We are going to use Python instead of Java for the backend. Both Java and Python have extensive libraries, but Python is more
-human-readable and its syntax allows us to write the same thing as using Java but with less code.
+We used python as our backend language and flask as the backend framework of the project. It helps to chain web server and 
+web application together to process requests. Compared to Django which covers comprehensive features, Flask is micro and 
+more suitable for building a light web application like Music Forecast. There are many features of Django that are not needed,
+so Flask is a better choice.
+
 Database:
-Compared to SQL, we are going to use NoSQL database. By calling OpenWeather's and Spotify's APIs, we need to get access to data such as
-city name, temperature, playlist, album profile, etc. 
+Compared to SQL, we are going to use NoSQL database. By calling OpenWeather's and Spotify's APIs, we need to get access to 
+data such as city name, temperature, playlist, album profile, etc. 
 Below are 2 reasons to choose NoSQL over SQL: 
 1. We might constantly add new features. 
 2. Data we need vary in data types.
